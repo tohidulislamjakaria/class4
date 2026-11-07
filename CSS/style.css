@@ -1,0 +1,72 @@
+
+/* *{
+  padding: 0;
+  margin: 0;
+} */
+
+/* h1 {
+  color: rgb(231, 8, 37);
+  border: 1px solid black;
+  /* its called property : value  */
+  padding: 50px;
+  margin: 50px;
+} */
+
+
+.imff{
+width: 100%;
+}
+
+/* ejkhne mul jei bisota seta holo display te ami bole dissi je inline hote , ete kore inline height width kaj kore na  */
+.boxone{
+  height: 200px; 
+  width: 200px;
+  background: rgb(66, 3, 3);
+  display: inline-block;
+}
+
+.boxtwo{
+  height: 200px;
+  width: 200px;
+  background: rgb(5, 172, 149);
+  display: inline-block;
+}
+
+/* .bgimg{
+background: url("../images/nature.jpg");
+height: 800px;
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+} */
+
+.bgimg {
+  background-image: url("../images/nature.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+ 
+}
+
+.jk{
+color: #9E2611;
+}
+
+.boutton{
+height: 500px;
+width: 500px;
+background-color: #310597;
+border-radius: 50%;
+
+}
+
+.mm{
+background-color: #94e09a;
+border: none;
+color: #250701;
+padding: 8px 16px;
+border-radius: 8px;
+
+}
